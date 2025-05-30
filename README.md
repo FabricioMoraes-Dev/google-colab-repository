@@ -1,2 +1,4 @@
 # google-colab-repository
-Repository for developing Google Colab notebooks.
+Repository for developing data analysis.
+
+Author: Fabricio Moraes.
